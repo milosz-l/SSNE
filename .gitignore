@@ -3,6 +3,8 @@
 data/
 .vscode/
 adults_classifier_params_search2022_10*
+net_visualization*
+net_visualizations/
 
 # lab7 data
 lab7_miniprojekt3/test_all
