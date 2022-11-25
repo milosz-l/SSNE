@@ -1,0 +1,63 @@
+epoch 1 train running accuracy = 0.1215139701962471, val_accuracy = 0.1807543784379959
+[1/20] running loss: 8.4002, macro avg accuracy: 0.1803
+
+epoch 2 train running accuracy = 0.2146347016096115, val_accuracy = 0.2477845847606659
+[2/20] running loss: 7.2681, macro avg accuracy: 0.2409
+
+epoch 3 train running accuracy = 0.25984421372413635, val_accuracy = 0.28027719259262085
+[3/20] running loss: 6.7739, macro avg accuracy: 0.2735
+
+epoch 4 train running accuracy = 0.2928076386451721, val_accuracy = 0.3077709674835205
+[4/20] running loss: 6.4511, macro avg accuracy: 0.304
+
+epoch 5 train running accuracy = 0.3208095133304596, val_accuracy = 0.33117473125457764
+[5/20] running loss: 6.1771, macro avg accuracy: 0.3377
+
+epoch 6 train running accuracy = 0.3453269302845001, val_accuracy = 0.35787320137023926
+[6/20] running loss: 5.9337, macro avg accuracy: 0.3528
+
+epoch 7 train running accuracy = 0.36276179552078247, val_accuracy = 0.37230175733566284
+[7/20] running loss: 5.7337, macro avg accuracy: 0.3674
+
+epoch 8 train running accuracy = 0.3812445402145386, val_accuracy = 0.37707337737083435
+[8/20] running loss: 5.5632, macro avg accuracy: 0.3748
+
+epoch 9 train running accuracy = 0.39683622121810913, val_accuracy = 0.4030902087688446
+[9/20] running loss: 5.417, macro avg accuracy: 0.404
+
+epoch 10 train running accuracy = 0.4093095362186432, val_accuracy = 0.4093387722969055
+[10/20] running loss: 5.2918, macro avg accuracy: 0.4069
+
+epoch 11 train running accuracy = 0.42002803087234497, val_accuracy = 0.3947966396808624
+[11/20] running loss: 5.1856, macro avg accuracy: 0.3886
+
+epoch 12 train running accuracy = 0.43279170989990234, val_accuracy = 0.41365599632263184
+[12/20] running loss: 5.0863, macro avg accuracy: 0.4096
+
+epoch 13 train running accuracy = 0.438788503408432, val_accuracy = 0.44012725353240967
+[13/20] running loss: 4.9982, macro avg accuracy: 0.4348
+
+epoch 14 train running accuracy = 0.4498226046562195, val_accuracy = 0.41831400990486145
+[14/20] running loss: 4.9112, macro avg accuracy: 0.4143
+
+epoch 15 train running accuracy = 0.45732176303863525, val_accuracy = 0.42797091603279114
+[15/20] running loss: 4.836, macro avg accuracy: 0.4302
+
+epoch 16 train running accuracy = 0.4639371633529663, val_accuracy = 0.45466938614845276
+[16/20] running loss: 4.7724, macro avg accuracy: 0.4425
+
+epoch 17 train running accuracy = 0.4720423221588135, val_accuracy = 0.4602363109588623
+[17/20] running loss: 4.7166, macro avg accuracy: 0.4527
+
+epoch 18 train running accuracy = 0.47832947969436646, val_accuracy = 0.4668257236480713
+[18/20] running loss: 4.6561, macro avg accuracy: 0.4588
+
+epoch 19 train running accuracy = 0.4823315441608429, val_accuracy = 0.4684162735939026
+[19/20] running loss: 4.5987, macro avg accuracy: 0.4571
+
+epoch 20 train running accuracy = 0.4875834882259369, val_accuracy = 0.4679618179798126
+[20/20] running loss: 4.5493, macro avg accuracy: 0.4694
+
+Finished Training
+CPU times: user 48min 25s, sys: 8min 46s, total: 57min 11s
+Wall time: 1h 35s
