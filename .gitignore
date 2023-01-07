@@ -9,7 +9,13 @@ net_visualizations/
 # lab7 data
 lab7_miniprojekt3/test_all
 lab7_miniprojekt3/train
+lab7_miniprojekt3/neural*
+lab7_miniprojekt3/preds*
 C6_obrazki/
+
+# miniprojekt5 data
+lab12_miniprojekt5/traf*
+lab12_miniprojekt5/pon*
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python,macos
