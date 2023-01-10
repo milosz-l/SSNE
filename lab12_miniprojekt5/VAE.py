@@ -15,7 +15,8 @@ class Encoder(nn.Module):
         self.training = True
         
     def forward(self, x):
-        x = torch.flatten(x, 1) # spłaszczamy obrazek do długiego wektora (to głupie trochę, robione dla przykładu na labki)
+        # x = torch.flatten(x, 1) # spłaszczamy obrazek do długiego wektora (to głupie trochę, robione dla przykładu na labki)
+        x = x.view(x.shape[0], 32 * 32 * 3)
         x       = self.LeakyReLU(self.fc_1(x))
         x       = self.LeakyReLU(self.fc_2(x))
         mean     = self.fc_mean(x)
