@@ -66,3 +66,11 @@ class VAE(nn.Module):
 #         print("z", z.shape)
         x_hat = self.decoder(z)
         return x_hat, mean, log_var
+
+
+# define loss function
+def vae_loss_function(x, x_hat, mean, log_var):
+    reproduction_loss = nn.functional.mse_loss(x_hat, x, reduction='sum')
+    KLD = -0.5 * torch.sum(1 + log_var - mean.pow(2) - log_var.exp())
+
+    return reproduction_loss+ KLD

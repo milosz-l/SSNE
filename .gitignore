@@ -17,6 +17,7 @@ C6_obrazki/
 lab12_miniprojekt5/traf*
 lab12_miniprojekt5/pon*
 lab12_miniprojekt5/*.tar
+lab12_miniprojekt5/generated*
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python,macos
