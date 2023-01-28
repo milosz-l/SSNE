@@ -19,6 +19,10 @@ lab12_miniprojekt5/pon*
 lab12_miniprojekt5/*.tar
 lab12_miniprojekt5/generated*
 
+# miniprojekt6
+lab15_miniprojekt6/results
+lab15_miniprojekt6/api_key.txt
+
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python,macos
 
